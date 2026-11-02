@@ -1,4 +1,5 @@
-github:ziqinggao82-ux/1151VR-HW2-414262246-gzq
+github:github.com/ziqinggao82-ux/1151VR-HW2-414262246-gzq
+
 youtube:https://youtu.be/_WcKE41vmyk?si=CAtPQd1kyewlUqJz
 ## 一、建立遊戲與匯入素材
   我先在Unity 建立 2D 遊戲專案，將人物圖片與背景素材匯入 Assets 資料夾，再將人物放入
